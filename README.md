@@ -64,12 +64,9 @@
 <br />
 <p><a href="https://github.com/Bhaveshytag/PaySight#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaveshytag&repo=PaySight&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/Bhaveshytag/PaySight#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaveshytag&repo=PaySight&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-
-<p><a href="https://github.com/Bhaveshytag/Dynamic-Portfolio-Analyst#gh-dark-mode-only" target="_blank"><img align="center" src="https://github.com/Bhaveshytag/Dynamic_Portfolio_Analyst/blob/main/README.md#dynamic_portfolio_analyst"/></a></p>
-<p><a href="https://github.com/Bhaveshytag/Dynamic-Portfolio-Analyst#gh-light-mode-only" target="_blank"><img align="center" src="https://github.com/Bhaveshytag/Dynamic_Portfolio_Analyst/blob/main/README.md#dynamic_portfolio_analyst"/></a></p>
 <br />
 
-https://github.com/Bhaveshytag/Dynamic_Portfolio_Analyst/blob/main/README.md#dynamic_portfolio_analyst
+
                     
 
 <h2>Connect With Me</h2> 
