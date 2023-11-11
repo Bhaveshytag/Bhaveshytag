@@ -71,6 +71,6 @@
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://instagram.com/bhaveshytag11" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaveshytag11" /></a>
+<a href="https://www.instagram.com/bhaveshytag" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaveshytag11" /></a>
 <a href="https://www.linkedin.com/in/bhavesh-y-1163a6232/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
